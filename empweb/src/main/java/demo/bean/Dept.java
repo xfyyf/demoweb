@@ -20,7 +20,7 @@ public class Dept {
 	@GeneratedValue(strategy=GenerationType.IDENTITY)
 	private Integer did;
 	
-	private String dname;
+	private String dname;// 一般属性  部门名称 自动
 	
 	@OneToMany(mappedBy="dept",
 			cascade=CascadeType.ALL)
