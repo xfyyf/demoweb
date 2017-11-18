@@ -18,9 +18,9 @@ public class Dept {
 	
 	@Id
 	@GeneratedValue(strategy=GenerationType.IDENTITY)
-	private Integer did;
+	private Integer did; //主键
 	
-	private String dname;
+	private String dname;//部门名称
 	
 	@OneToMany(mappedBy="dept",
 			cascade=CascadeType.ALL)
