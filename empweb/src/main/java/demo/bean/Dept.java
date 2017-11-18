@@ -18,10 +18,10 @@ public class Dept {
 	
 	@Id
 	@GeneratedValue(strategy=GenerationType.IDENTITY)
-	private Integer did;
+	private Integer did; //主键
 	
 	private String dname;// 一般属性  部门名称 自动
-	
+
 	@OneToMany(mappedBy="dept",
 			cascade=CascadeType.ALL)
 	private Set<Emp> emps =new HashSet<Emp>();
