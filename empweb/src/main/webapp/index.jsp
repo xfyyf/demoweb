@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-   <a href="/empweb/list.sw">员工管理(Maven+Git)</a>
+   <a href="/empweb/list.sw">员工管理(SpringMVC+Hibernate)(Maven+Git)</a>
 </body>
 </html>
