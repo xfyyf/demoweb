@@ -4,10 +4,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Insert title here</title>
+<title>demo</title>
 </head>
 <body>
-   <a href="/empweb/list.sw">员工管理(Spring+Hibernate)</a><br>
-   <div></div>
+<p>2.jsp</p>
 </body>
 </html>
