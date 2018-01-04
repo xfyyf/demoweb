@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>demo</title>
+<title>demo page</title>
 </head>
 <body>
 <p>2.jsp</p>
