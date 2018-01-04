@@ -4,8 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-
-<title>empweb demo page</title>
+<title>empweb demo page v1.0</title>
 </head>
 <body>
 <p>2.jsp</p>
