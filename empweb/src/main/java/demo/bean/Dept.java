@@ -12,6 +12,11 @@ import javax.persistence.Id;
 import javax.persistence.OneToMany;
 import javax.persistence.Table;
 
+/**
+ * 部门信息
+ * @author yf
+ *
+ */
 @Entity
 @Table(name="mydept")
 public class Dept {
